@@ -2,6 +2,8 @@
 
 ### Topics covered in the repo
 
+##### Algorithms
+
 ##### Data Structures
 - Linked Lists
     - Single Linked List
